@@ -2,4 +2,7 @@
 
 this is [SeyedEhsan Sajadi](https://github.com/ehsansajadi) and Kian Jalilian AI Project
 
-we want to implement smart agent for Quoridor game
+we implemented smart agent for Quoridor game
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
