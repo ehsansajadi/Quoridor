@@ -4,5 +4,8 @@ this is [SeyedEhsan Sajadi](https://github.com/ehsansajadi) and Kian Jalilian AI
 
 we implemented smart agent for Quoridor game
 
+## Contributing
+Pull requests are welcome.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
