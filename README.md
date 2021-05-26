@@ -1,6 +1,6 @@
 # AI project Quoridor
 
-this is [SeyedEhsan Sajadi](https://github.com/ehsansajadi) and Kian Jalilian AI Project
+this is [SeyedEhsan Sajadi](https://github.com/ehsansajadi) and [Kian Jalilian](https://github.com/kianjalilian) AI Project
 
 we implemented smart agent for Quoridor game
 
